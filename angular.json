@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "code-genie-app": "apps/code-genie-app",
+    "code-genie-app-e2e": "apps/code-genie-app-e2e"
+  }
+}
